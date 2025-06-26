@@ -31,7 +31,7 @@ Visualize the accuracy of predictions through graphical evaluations.
 
 Programming Language: Python
 
-# Libraries: 
+Libraries: 
 
 pandas, numpy – Data manipulation
 
@@ -46,15 +46,15 @@ pmdarima – Auto ARIMA for optimal parameter selection
 
 ## 🗃️ Dataset
 
-# Source: Yahoo Fianance
+Source: Yahoo Fianance
 
-# Data: Historical daily prices of Ethereum paired with USDT
+Data: Historical daily prices of Ethereum paired with USDT
 
-# Features: Date, Open, High, Low, Close, Volume
+Features: Date, Open, High, Low, Close, Volume
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## ** 🔧 Methodology**
+## 🔧 Methodology
 
 # Data Preprocessing:
 
@@ -125,7 +125,11 @@ https://www.researchgate.net/publication/333464180_Forecasting_cryptocurrency_pr
 ## 👩‍💻 Author
 
 **Muqadas Ejaz**  
-BS Computer Science (AI Specialization)  
+
+BS Computer Science (AI Specialization) 
+
 Machine Learning & Computer Vision Enthusiast  
+
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muqadasejaz/)  
+
 🌐 GitHub: [github.com/muqadasejaz](https://github.com/muqadasejaz)
