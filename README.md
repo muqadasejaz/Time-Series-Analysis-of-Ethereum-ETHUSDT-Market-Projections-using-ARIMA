@@ -31,7 +31,7 @@ Visualize the accuracy of predictions through graphical evaluations.
 
 Programming Language: Python
 
-Libraries:
+# Libraries: 
 
 pandas, numpy – Data manipulation
 
@@ -46,29 +46,29 @@ pmdarima – Auto ARIMA for optimal parameter selection
 
 ## 🗃️ Dataset
 
-Source: Yahoo Fianance
+# Source: Yahoo Fianance
 
-Data: Historical daily prices of Ethereum paired with USDT
+# Data: Historical daily prices of Ethereum paired with USDT
 
-Features: Date, Open, High, Low, Close, Volume
+# Features: Date, Open, High, Low, Close, Volume
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🔧 Methodology
+## ** 🔧 Methodology**
 
-Data Preprocessing:
+# Data Preprocessing:
 
 Handled missing values and formatted datetime
 
 Extracted the closing price for modeling
 
-Exploratory Data Analysis (EDA):
+# Exploratory Data Analysis (EDA):
 
 Visualized price trends, rolling statistics
 
 Checked stationarity using Augmented Dickey-Fuller (ADF) test
 
-Modeling:
+# Modeling:
 
 Applied ARIMA modeling
 
@@ -76,7 +76,7 @@ Used Auto ARIMA to automatically determine (p,d,q) parameters
 
 Trained the model on historical data
 
-Forecasting:
+# Forecasting:
 
 Generated price predictions for future dates
 
