@@ -1,8 +1,8 @@
-📈 Time Series Analysis of Ethereum (ETH/USDT) Market Projections using ARIMA
+## 📈 Time Series Analysis of Ethereum (ETH/USDT) Market Projections using ARIMA
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🔍 Project Overview
+## 🔍 Project Overview
 
 This project explores the use of the ARIMA (AutoRegressive Integrated Moving Average) model to analyze and forecast Ethereum (ETH/USDT) price trends. With cryptocurrency markets being 
 
@@ -13,7 +13,7 @@ The project aims to model historical Ethereum price data and make short-term pro
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🧠 Objective
+## 🧠 Objective
 
 To build a statistical model that can:
 
@@ -27,7 +27,7 @@ Visualize the accuracy of predictions through graphical evaluations.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📌 Technologies & Tools
+## 📌 Technologies & Tools
 
 Programming Language: Python
 
@@ -44,7 +44,7 @@ pmdarima – Auto ARIMA for optimal parameter selection
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🗃️ Dataset
+## 🗃️ Dataset
 
 Source: Yahoo Fianance
 
@@ -54,7 +54,7 @@ Features: Date, Open, High, Low, Close, Volume
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🔧 Methodology
+## 🔧 Methodology
 
 Data Preprocessing:
 
@@ -90,7 +90,7 @@ Plotted actual vs predicted values
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📊 Results
+## 📊 Results
 
 The ARIMA model effectively captured the underlying trend in the ETH/USDT price series.
 
@@ -100,7 +100,7 @@ The model provides a solid baseline for further improvements using more advanced
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🏁 Future Work
+## 🏁 Future Work
 
 Extend the forecasting horizon
 
@@ -112,9 +112,20 @@ Build an interactive dashboard for live updates
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-👩‍💻 Author
+## 📚 References
 
-Muqadas Ejaz
+https://journal.esrgroups.org/jes/article/view/7288
 
-Machine Learning Engineer | Data Science Enthusiast
-LinkedIn (https://www.linkedin.com/in/muqadasejaz/)
+https://www.youtube.com/watch?v=5c3T6m4P4F4
+
+https://www.researchgate.net/publication/333464180_Forecasting_cryptocurrency_prices_time_series_using_machine_learning_approach
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 👩‍💻 Author
+
+**Muqadas Ejaz**  
+BS Computer Science (AI Specialization)  
+Machine Learning & Computer Vision Enthusiast  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muqadasejaz/)  
+🌐 GitHub: [github.com/muqadasejaz](https://github.com/muqadasejaz)
